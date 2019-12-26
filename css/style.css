@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #ECECEC;
+}
+
+.quem-somos{
+    padding-top: 10px;
+    background-color: #F0C7A8;
+}
+
+.img-quem{
+    margin-bottom: 20px;
+}
+
+.parceiros{
+    background-color: #9BE9CD;
+}
+
+.servicos{
+    background-color: #F9E9A7;
+}
+
+.serv{
+    font-size: 14px;
+}
+
+.margin{
+    margin-top: 5px;
+    padding-top: 8px;
+    padding-bottom: 20px;
+}
+
+.margin-quem{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.bg-footer {
+    background-color: #ECECEC;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: right;
+    font-size: 12px;
+}
